@@ -1,0 +1,17 @@
+{
+    "name": "tool/file-converter",
+    "version": "1.0.0",
+    "description": "File conversion web app",
+    "require": {
+        "php": ">=8.0",
+        "dompdf/dompdf": "^2.0",
+        "phpoffice/phpword": "^1.3",
+        "setasign/fpdi": "^2.6",
+        "smalot/pdfparser": "^2.7",
+        "tecnickcom/tcpdf": "^6.7"
+    },
+    "config": {
+        "sort-packages": true,
+        "optimize-autoloader": true
+    }
+}

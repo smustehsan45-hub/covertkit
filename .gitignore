@@ -1,0 +1,8 @@
+/storage/temp/*
+!/storage/temp/.gitkeep
+/storage/uploads/*
+!/storage/uploads/.gitkeep
+/vendor/
+composer.phar
+.idea/
+*.log
